@@ -1,0 +1,3 @@
+[submodule "snapidea"]
+	path = snapidea
+	url = https://github.com/kingkingruan/snapidea.git
